@@ -1,8 +1,12 @@
-# Medicines Management Application
+# PediaDose
 
 ## Overview
 
 This project consists of a Medicines Management Application with a Django-powered backend hosted at [medicines.pythonanywhere.com](http://medicines.pythonanywhere.com) and a Flutter-based frontend. The application is designed to streamline the process of managing medicine-related data, offering an intuitive interface for users to interact with the system.
+
+## Screenshots
+
+![windowsOutput](https://github.com/divyesh1099/pediaDose/assets/65925922/11f0ab62-9f6a-46cb-82dc-ad1014f28ff9)
 
 ## Features
 
